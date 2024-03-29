@@ -1,0 +1,76 @@
+.navigation
+{
+    background-color: black;
+    color: white;
+    text-decoration: none;
+    display: flex;
+    justify-content: space-between;
+}
+.logo{
+    color: white;
+    text-decoration: none;
+    margin-left: 10px;
+}
+.nav a
+{ 
+text-decoration: none;
+color: white;
+margin-right: 10px;
+}
+.herosection{
+    height: 400px;
+    display: flex;
+    justify-content: center;
+    background-color: rgb(91, 91, 206);
+    align-items: center;
+}
+img{
+    width: 250px;
+    display: block;
+    margin: auto;
+    object-fit: cover;
+}
+.content{
+    width: 50%;
+    display: flex;
+    text-align: center;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: antiquewhite;
+}
+.button{
+    color:blue;
+    background-color: antiquewhite;
+    text-align: center;
+    text-decoration: none;
+    font-size: 16px;
+}
+.h4{
+    width: 50%;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+}
+.second{
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    background-color: white;
+    color: black;
+    margin: 10px;
+}
+.button{
+    outline: blue;
+    color: blue;
+    background-color: antiquewhite;
+   text-align: center;
+   font-size: 16px;
+   text-decoration: none;
+}
+
+
+
